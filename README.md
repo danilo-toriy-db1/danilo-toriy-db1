@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Danilo-Toriy" target="_blank">
-    <img src="https://img.shields.io/badge/-Laborat%C3%B3rio_Pessoal_(GitHub)-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pessoal">
+    <img src="https://img.shields.io/badge/-Git_Pessoal_(GitHub)-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pessoal">
   </a>
   <a href="mailto:danilo.toriy@db1.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-E--mail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
